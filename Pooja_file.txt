@@ -1,1 +1,2 @@
 this is my new file, testing the git commands
+second commit through gui
